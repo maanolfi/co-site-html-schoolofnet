@@ -1,0 +1,5 @@
+@import url('../main.css');
+
+#header.page-clientes {
+    background-image: url("../image/principal.jpg");
+}

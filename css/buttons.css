@@ -1,0 +1,23 @@
+.btn {
+    background-color: rgb(79, 123, 243);
+    color:#ffffff;
+    display:inline-block;
+    border-radius: 30px;
+    padding: 10px 30px;
+    text-decoration: none;
+    transition: ease .5s all;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(79, 123, 243, 0.3);
+}
+
+.btn.orange {
+    background-color: #fed136;
+}
+
+.btn.orange:hover {
+    background-color: #000000;
+}
